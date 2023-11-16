@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FofAytBOx8lEBy0/UY8w6FuI57hUEkaZxZFtO+rzE0XlK8/mh5DB4TvaNduO1ab6ytQ6INeJDCtKk9bZjJyFBw==",
+  "success": true,
+  "projectFilePath": "C:\\xampp\\htdocs\\30DaysOfF\\30DaysOfF\\30DaysOfF.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Deepe\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

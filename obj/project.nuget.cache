@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FofAytBOx8lEBy0/UY8w6FuI57hUEkaZxZFtO+rzE0XlK8/mh5DB4TvaNduO1ab6ytQ6INeJDCtKk9bZjJyFBw==",
+  "dgSpecHash": "RlzfaeIMXS6vcPCyw8r3525M3c2xmM1yDM5TFVpQrn4Mp9WGiQ/Kz8dg+zaLMwFFmMT+aYbdySwXx2f0FW6zvQ==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\30DaysOfF\\30DaysOfF\\30DaysOfF.fsproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\30DaysOfF\\30DaysOfF.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\Deepe\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
   ],

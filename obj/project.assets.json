@@ -94,11 +94,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\30DaysOfF\\30DaysOfF\\30DaysOfF.fsproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\30DaysOfF\\30DaysOfF.fsproj",
       "projectName": "30DaysOfF",
-      "projectPath": "C:\\xampp\\htdocs\\30DaysOfF\\30DaysOfF\\30DaysOfF.fsproj",
+      "projectPath": "C:\\xampp\\htdocs\\30DaysOfF\\30DaysOfF.fsproj",
       "packagesPath": "C:\\Users\\Deepe\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\30DaysOfF\\30DaysOfF\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\30DaysOfF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Deepe\\AppData\\Roaming\\NuGet\\NuGet.Config"

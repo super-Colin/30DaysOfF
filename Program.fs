@@ -8,6 +8,10 @@ let from whom =
 
 [<EntryPoint>]
 let main argv =
-    let message = from "F#" // Call the function
-    printfn "Hello world %s" message
-    0 // return an integer exit code
+    // let message = from "F#" // Call the function
+    // printfn "Hello world %s" message
+    // 0 // return an integer exit code
+    System.Console.Write "Type something:"
+    let str = System.Console.ReadLine()
+    printfn "You typed %s" str
+    0
